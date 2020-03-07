@@ -9,6 +9,7 @@ int main() {
     // calculating sum
     sum = number1 + number2;      
     
+    //Nai karna changes
     printf("%d + %d = %d", number1, number2, sum);
     return 0;
 }
